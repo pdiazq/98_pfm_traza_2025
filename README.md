@@ -283,6 +283,35 @@ Ran X tests for test/SupplyChain.t.sol:SupplyChainTest
 Suite result: ok. X passed; 0 failed; 0 skipped.
 
 
+pdiazq@Pedros-MacBook-Pro sc % 
+pdiazq@Pedros-MacBook-Pro sc % 
+pdiazq@Pedros-MacBook-Pro sc % forge test
+[⠊] Compiling...
+No files changed, compilation skipped
+
+Ran 13 tests for test/SupplyChain.t.sol:SupplyChainTest
+[PASS] testAcceptTransfer() (gas: 644305)
+[PASS] testAdminApproveUser() (gas: 145604)
+[PASS] testConsumerCannotTransfer() (gas: 1279771)
+[PASS] testCreateTokenByProducer() (gas: 330190)
+[PASS] testIsAdmin() (gas: 14595)
+[PASS] testOnlyAdminCanChangeStatus() (gas: 116191)
+[PASS] testRejectTransfer() (gas: 621837)
+[PASS] testTransferFromProducerToFactory() (gas: 591790)
+[PASS] testTransferToSameAddress() (gas: 314259)
+[PASS] testTransferZeroAmount() (gas: 435949)
+[PASS] testUnapprovedUserCannotCreateToken() (gas: 115540)
+[PASS] testUnapprovedUserCannotTransfer() (gas: 442569)
+[PASS] testUserRegistration() (gas: 118347)
+Suite result: ok. 13 passed; 0 failed; 0 skipped; finished in 7.71ms (9.61ms CPU time)
+
+Ran 1 test suite in 190.39ms (7.71ms CPU time): 13 tests passed, 0 failed, 0 skipped (13 total tests)
+pdiazq@Pedros-MacBook-Pro sc % 
+pdiazq@Pedros-MacBook-Pro sc % 
+pdiazq@Pedros-MacBook-Pro sc % 
+pdiazq@Pedros-MacBook-Pro sc % 
+
+
 ⸻
 
 8. Video demostrativo
