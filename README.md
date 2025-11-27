@@ -333,7 +333,9 @@ El video muestra:
 Enlace al video:
 
 ## Demo en video
-
+(Video 5 minutos que debí recortar pues no me alcanzó este tiempo)
+👉 https://youtu.be/v-vD2xYYLsY 
+(Video 11 minutos completo describiendo el sistema)
 👉 https://youtu.be/LVnEL3wEIm8
 
 ⸻
