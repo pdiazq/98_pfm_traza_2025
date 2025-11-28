@@ -333,7 +333,7 @@ El video muestra:
 Enlace al video:
 
 ## Demo en video
-(Video 5 minutos aceletado)
+(Video 5 minutos acelerado)
 👉 https://youtu.be/eScxIJMPxgM
 (Video 11 minutos velocidad normal)
 👉 https://youtu.be/LVnEL3wEIm8
